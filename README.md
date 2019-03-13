@@ -4,7 +4,7 @@ Aplicacion Web Desarrollado con tecnologia Html, Css Y javascript
 
 ## Layout One
 
-![Sitio Web-con-HTML,CSS Y JQUERY](https://github.com/Crusiris/SitioWeb/blob/master/images/SitioWeb.PNG)
+![App-lista-de-Tareas](https://github.com/Crusiris/App-Lista-de-Tareas/blob/master/img/Webp.net-gifmaker.gif)
 
 Prerequisites
 
