@@ -1,14 +1,10 @@
 # Sitio Web-con-HTML,CSS Y JQUERY
 
-Sitio web Desarrollado con tecnologia Html, CSS Y JQUERY
+Aplicacion Web Desarrollado con tecnologia Html, Css Y javascript
 
 ## Layout One
 
 ![Sitio Web-con-HTML,CSS Y JQUERY](https://github.com/Crusiris/SitioWeb/blob/master/images/SitioWeb.PNG)
-
-## Layout Two
-
-![Sitio Web-con-HTML,CSS Y JQUERY](https://github.com/Crusiris/SitioWeb/blob/master/images/Sitio.PNG)
 
 Prerequisites
 
